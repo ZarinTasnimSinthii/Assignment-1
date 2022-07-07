@@ -1,0 +1,115 @@
+ body {
+     font-family: 'Cabin', sans-serif;
+     margin: 0%;
+
+ }
+
+ #foot {
+     height: 120px;
+     background-color: black;
+     text-align: center;
+ }
+
+ #form {
+     height: 250px;
+     width: 500px;
+     background-color: lightgoldenrodyellow;
+     margin-left: 250px;
+
+ }
+
+ .picture {
+     background-repeat: no-repeat;
+     background-image: url(images/donation1.jpg);
+     height: 500px;
+     margin: 0;
+     background-size: cover;
+     text-align: center;
+ }
+
+ .button {
+     background-image: linear-gradient(red, red);
+     padding: 10px 20px;
+     color: aliceblue;
+     border-radius: 5px;
+ }
+
+ #donate {
+     text-align: center;
+ }
+
+ .taka {
+     display: flex;
+     color: gray;
+     text-align: center;
+     padding-left: 200px;
+
+
+ }
+
+ #border {
+     border: 2px solid red;
+ }
+
+ .button-2 {
+     background-image: linear-gradient(tomato, tomato);
+     padding: 10px 20px;
+     color: aliceblue;
+     border-radius: 5px;
+ }
+
+ .experiment {
+     display: flex;
+ }
+
+ .box {
+     width: 40%;
+
+     box-shadow: 10px 10px 40px white;
+     margin-left: 5px;
+     margin-right: 5px;
+     border-radius: 5px;
+     width: 50%;
+     padding-left: 20px;
+
+
+ }
+
+ #box1 {
+     margin-left: 60px;
+     background-color: rgb(201, 224, 234);
+ }
+
+ #box2 {
+     background-color: bisque;
+ }
+
+ #box3 {
+     margin-right: 60px;
+     background-color: lightyellow;
+ }
+
+ .for-flex {
+     display: flex;
+ }
+
+ .half-width {
+     width: 50%;
+     padding-left: 10%;
+ }
+
+ .half-width img {
+     width: 80%;
+     padding-right: 10%;
+ }
+
+ #F1 {
+     background-color: lightgrey;
+     height: 30px;
+     ;
+ }
+
+ #F2 {
+     background-color: lightcoral;
+     height: 36px;
+ }
